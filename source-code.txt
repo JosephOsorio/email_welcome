@@ -1,0 +1,1140 @@
+<!DOCTYPE html>
+<html
+  lang="en"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:v="urn:schemas-microsoft-com:vml"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <meta
+      name="format-detection"
+      content="telephone=no,address=no,email=no,date=no,url=no"
+    />
+    <title>HTML Email Welcome One Template</title>
+    <!--[if gte mso 9]>
+      <noscript>
+        <xml>
+          <o:OfficeDocumentSettings>
+            <o:AllowPNG />
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+          </o:OfficeDocumentSettings>
+        </xml>
+      </noscript>
+    <![endif]-->
+
+    <style type="text/css">
+      body,
+      table,
+      td,
+      a {
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      table,
+      td {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+
+      img {
+        border: 0;
+        line-height: 100%;
+        outline: none;
+        text-decoration: none;
+        display: block;
+        -ms-interpolation-mode: bicubic;
+      }
+
+      table {
+        border-collapse: collapse !important;
+      }
+      body {
+        height: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 100% !important;
+      }
+
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+
+      u + #body a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+
+      #MessageViewBody a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+
+      #MessageViewBody,
+      #MessageWebViewDiv {
+        width: 100% !important;
+      }
+    </style>
+  </head>
+  <body
+    id="body"
+    style="
+      margin: 0 !important;
+      padding: 0 !important;
+      background-color: #b6c3c8;
+    "
+  >
+    <center
+      role="article"
+      aria-roledescription="email"
+      aria-label="Email"
+      lang="en"
+      style="width: 100%; table-layout: fixed; background-color: #b6c3c8"
+    >
+      <module name="preheader" label="Preheader">
+        <div
+          style="
+            font-size: 0px;
+            line-height: 1px;
+            display: none;
+            max-width: 0px;
+            max-height: 0px;
+            opacity: 0;
+            overflow: hidden;
+          "
+        >
+          <editable name="preheader"
+            >If you received this email it was a sample test HTML Email
+            💯</editable
+          >
+          <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+          <div style="display: none; max-height: 0px; overflow: hidden">
+            &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+            &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+            &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+            &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+            &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+          </div>
+        </div>
+      </module>
+      <!--[if (gte mso 9)|(IE)]>
+        <table 
+          role="presentation" 
+          border="0" 
+          cellpadding="0" 
+          cellspacing="0" 
+          width="100%" 
+          style="background-color: #B6C3C8;"
+        >
+          <tr>
+            <td align="center">
+      <![endif]-->
+      <div style="max-width: 640px; margin: 0 auto">
+        <!--[if (gte mso 9)|(IE)]>
+          <table 
+            role="presentation" 
+            cellspacing="0" 
+            cellpadding="0" 
+            border="0" 
+            width="640"
+          >
+            <tr>
+              <td>
+        <![endif]-->
+        <table
+          role="presentation"
+          cellpadding="0"
+          cellspacing="0"
+          border="0"
+          width="100%"
+          bgcolor="ffffff"
+          style="
+            border-spacing: 0;
+            border-collapse: collapse;
+            width: 100%;
+            background-color: #ffffff;
+          "
+        >
+          <tr>
+            <td>
+              <table
+                role="presentation"
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                width="640"
+                style="border-spacing: 0; border-collapse: collapse; width: 90%"
+              >
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 50px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <img
+                      src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/header_logo.png"
+                      width="235.5"
+                      style="
+                        display: block;
+                        border: 0px;
+                        width: 100%;
+                        max-width: 235.5px;
+                      "
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 50px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top">
+              <img
+                src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/hero_animation.gif"
+                alt="Welcome To Space Museum Claim Your Free Ticket"
+                width="640"
+                style="
+                  display: block;
+                  border: 0px;
+                  width: 100%;
+                  max-width: 640px;
+                "
+              />
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <table
+                role="presentation"
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                width="500"
+                style="
+                  border-spacing: 0;
+                  border-collapse: collapse;
+                  width: 90%;
+                  max-width: 500px;
+                "
+              >
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 50px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="center"
+                    style="
+                      font: normal normal bold 40px / normal Arial, Helvetica,
+                        sans-serif;
+                    "
+                  >
+                    ENJOY EVERYTHING ABOUT SPACE
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 50px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <!--[if (gte mso 9)|(IE)]>
+              <table
+                role="presentation"
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                width="100%"
+                style="border-collapse: collapse; width: 100%">
+                <tr>
+                <td align="center">
+              <![endif]-->
+              <table
+                role="presentation"
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                width="550"
+                style="border-collapse: collapse; width: 90%; max-width: 550px"
+              >
+                <tr>
+                  <td align="center" style="font-size: 0px">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table
+                      role="presentation"
+                      cellpadding="0"
+                      cellspacing="0"
+                      border="0"
+                      width="550"
+                      style="border-collapse: collapse; width: 550px">
+                      <tr>
+                      <td valign="top" align="center" style="width: 275px" >
+                    <![endif]-->
+                    <div
+                      align="center"
+                      style="
+                        vertical-align: top;
+                        display: inline-block;
+                        width: 100%;
+                        max-width: 275px;
+                      "
+                    >
+                      <table
+                        role="presentation"
+                        cellpadding="0"
+                        cellspacing="0"
+                        border="0"
+                        width="230"
+                        style="border-collapse: collapse; max-width: 230px"
+                      >
+                        <tr>
+                          <td>
+                            <img
+                              src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/museum-one_img.png"
+                              alt="Joseph Osorio Logo"
+                              width="230"
+                              border="0"
+                              style="
+                                display: block;
+                                width: 100%;
+                                max-width: 230px;
+                              "
+                            />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            aria-hidden="true"
+                            style="
+                              font-size: 0;
+                              line-height: 0px;
+                              padding-top: 20px;
+                            "
+                          >
+                            &nbsp;
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            align="left"
+                            style="
+                              font: normal normal bold 22px / normal Arial,
+                                Helvetica, sans-serif;
+                            "
+                          >
+                            KNOW ABOUT THE ACCOMPLISHMENTS
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            aria-hidden="true"
+                            style="
+                              font-size: 0;
+                              line-height: 0px;
+                              padding-top: 50px;
+                            "
+                          >
+                            &nbsp;
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]>
+                      </td>
+                      <td valign="top" align="center" width="275px">
+                    <![endif]-->
+                    <div
+                      align="center"
+                      style="
+                        vertical-align: top;
+                        display: inline-block;
+                        width: 100%;
+                        max-width: 275px;
+                      "
+                    >
+                      <table
+                        role="presentation"
+                        cellpadding="0"
+                        cellspacing="0"
+                        border="0"
+                        width="230"
+                        style="border-collapse: collapse; max-width: 230px"
+                      >
+                        <tr>
+                          <td>
+                            <img
+                              src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/museum-two_img.png"
+                              alt="Joseph Osorio Logo"
+                              width="230"
+                              border="0"
+                              style="
+                                display: block;
+                                width: 100%;
+                                max-width: 230px;
+                              "
+                            />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            aria-hidden="true"
+                            style="
+                              font-size: 0;
+                              line-height: 0px;
+                              padding-top: 20px;
+                            "
+                          >
+                            &nbsp;
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            align="left"
+                            style="
+                              font: normal normal bold 22px / normal Arial,
+                                Helvetica, sans-serif;
+                            "
+                          >
+                            TOUR A SPACESHIP AND SEE INSIDE
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            aria-hidden="true"
+                            style="
+                              font-size: 0;
+                              line-height: 0px;
+                              padding-top: 50px;
+                            "
+                          >
+                            &nbsp;
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]>
+                      </td>
+                      </tr>
+                      </table>
+                    <![endif]-->
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 30px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+              </table>
+              <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+              <![endif]-->
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <!--[if (gte mso 9)|(IE)]>
+              <table
+                role="presentation"
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                width="100%"
+                style="border-collapse: collapse; width: 100%">
+                <tr>
+                <td align="center">
+              <![endif]-->
+              <table
+                role="presentation"
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                width="550"
+                style="border-collapse: collapse; width: 90%; max-width: 550px"
+              >
+                <tr>
+                  <td align="center" style="font-size: 0px">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table
+                      role="presentation"
+                      cellpadding="0"
+                      cellspacing="0"
+                      border="0"
+                      width="550"
+                      style="border-collapse: collapse; width: 550px">
+                      <tr>
+                      <td valign="top" align="center" style="width: 275px" >
+                    <![endif]-->
+                    <div
+                      align="center"
+                      style="
+                        vertical-align: top;
+                        display: inline-block;
+                        width: 100%;
+                        max-width: 275px;
+                      "
+                    >
+                      <table
+                        role="presentation"
+                        cellpadding="0"
+                        cellspacing="0"
+                        border="0"
+                        width="230"
+                        style="border-collapse: collapse; max-width: 230px"
+                      >
+                        <tr>
+                          <td>
+                            <img
+                              src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/museum-three_img.png"
+                              alt="Joseph Osorio Logo"
+                              width="230"
+                              border="0"
+                              style="
+                                display: block;
+                                width: 100%;
+                                max-width: 230px;
+                              "
+                            />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            aria-hidden="true"
+                            style="
+                              font-size: 0;
+                              line-height: 0px;
+                              padding-top: 20px;
+                            "
+                          >
+                            &nbsp;
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            align="left"
+                            style="
+                              font: normal normal bold 22px / normal Arial,
+                                Helvetica, sans-serif;
+                            "
+                          >
+                            LEARN ABOUT ALL THE PLANETS
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            aria-hidden="true"
+                            style="
+                              font-size: 0;
+                              line-height: 0px;
+                              padding-top: 50px;
+                            "
+                          >
+                            &nbsp;
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]>
+                      </td>
+                      <td valign="top" align="center" width="275px">
+                    <![endif]-->
+                    <div
+                      align="center"
+                      style="
+                        vertical-align: top;
+                        display: inline-block;
+                        width: 100%;
+                        max-width: 275px;
+                      "
+                    >
+                      <table
+                        role="presentation"
+                        cellpadding="0"
+                        cellspacing="0"
+                        border="0"
+                        width="230"
+                        style="border-collapse: collapse; max-width: 230px"
+                      >
+                        <tr>
+                          <td>
+                            <img
+                              src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/museum-four_img.png"
+                              alt="Joseph Osorio Logo"
+                              width="230"
+                              border="0"
+                              style="
+                                display: block;
+                                width: 100%;
+                                max-width: 230px;
+                              "
+                            />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            aria-hidden="true"
+                            style="
+                              font-size: 0;
+                              line-height: 0px;
+                              padding-top: 20px;
+                            "
+                          >
+                            &nbsp;
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            align="left"
+                            style="
+                              font: normal normal bold 22px / normal Arial,
+                                Helvetica, sans-serif;
+                            "
+                          >
+                            KNOW ABOUT THE ACCOMPLISHMENTS
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            aria-hidden="true"
+                            style="
+                              font-size: 0;
+                              line-height: 0px;
+                              padding-top: 50px;
+                            "
+                          >
+                            &nbsp;
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]>
+                      </td>
+                      </tr>
+                      </table>
+                    <![endif]-->
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 30px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+              </table>
+              <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+              <![endif]-->
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <table
+                role="presentation"
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                width="500"
+                style="
+                  border-spacing: 0;
+                  border-collapse: collapse;
+                  width: 90%;
+                  max-width: 500px;
+                "
+              >
+                <tr>
+                  <td align="center">
+                    <img
+                      src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/camera_astronaut.png"
+                      width="75"
+                      style="
+                        display: block;
+                        border: 0px;
+                        width: 100%;
+                        max-width: 75px;
+                      "
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="center"
+                    style="
+                      font: normal normal bold 40px / normal Arial, Helvetica,
+                        sans-serif;
+                    "
+                  >
+                    WHAT'S NEXT
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 20px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    align="center"
+                    style="
+                      font: normal normal normal 22px / normal Arial, Helvetica,
+                        sans-serif;
+                    "
+                  >
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                    do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua.
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 25px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <div align="center">
+                      <!--[if mso]>
+                    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://example.com" style="height:50px;v-text-anchor:middle;width:185px;" arcsize="20%" stroke="f" fillcolor="#2f2f2f">
+                      <w:anchorlock/>
+                      <center>
+                    <![endif]-->
+                      <a
+                        href="http://example.com"
+                        style="
+                          background-color: #2f2f2f;
+                          border-radius: 10px;
+                          color: #ffffff;
+                          display: inline-block;
+                          font-family: sans-serif;
+                          font-size: 22px;
+                          font-weight: normal;
+                          line-height: 50px;
+                          text-align: center;
+                          text-decoration: none;
+                          width: 185px;
+                          -webkit-text-size-adjust: none;
+                        "
+                        >BUY TICKETS</a
+                      >
+                      <!--[if mso]>
+                      </center>
+                    </v:roundrect>
+                  <![endif]-->
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 50px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td bgcolor="2f2f2f">
+              <table
+                role="presentation"
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                width="100%"
+                style="
+                  border-spacing: 0;
+                  border-collapse: collapse;
+                  width: 100%;
+                "
+              >
+                <tr>
+                  <td>
+                    <img
+                      src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/footer_sway_img.png"
+                      width="640"
+                      style="
+                        display: block;
+                        border: 0px;
+                        width: 100%;
+                        max-width: 640px;
+                      "
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td
+                    aria-hidden="true"
+                    style="font-size: 0; line-height: 0px; padding-top: 25px"
+                  >
+                    &nbsp;
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table
+                      role="presentation"
+                      cellpadding="0"
+                      cellspacing="0"
+                      border="0"
+                      width="550"
+                      style="
+                        border-spacing: 0;
+                        border-collapse: collapse;
+                        width: 90%;
+                        max-width: 550px;
+                      "
+                    >
+                      <tr>
+                        <td align="center">
+                          <a
+                            href="http://example.com"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            <img
+                              src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/footer_monogram.png"
+                              width="90.5"
+                              style="
+                                display: block;
+                                border: 0px;
+                                width: 100%;
+                                max-width: 90.5px;
+                              "
+                          /></a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          aria-hidden="true"
+                          style="
+                            font-size: 0;
+                            line-height: 0px;
+                            padding-top: 50px;
+                          "
+                        >
+                          &nbsp;
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          align="center"
+                          style="
+                            font: normal normal bold 24px / normal Arial,
+                              Helvetica, sans-serif;
+                            color: #ffffff;
+                          "
+                        >
+                          <p style="margin: 1px">FOLLOW US</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          aria-hidden="true"
+                          style="
+                            font-size: 0;
+                            line-height: 0px;
+                            padding-top: 25px;
+                          "
+                        >
+                          &nbsp;
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">
+                          <table
+                            role="presentation"
+                            cellpadding="0"
+                            cellspacing="0"
+                            border="0"
+                            style="border-spacing: 0; border-collapse: collapse"
+                          >
+                            <tr>
+                              <td style="padding-right: 10px">
+                                <a
+                                  href="http://example.com"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                >
+                                  <img
+                                    src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/facebook_icon.png"
+                                    alt="Facebook"
+                                    width="35"
+                                    style="
+                                      display: block;
+                                      border: 0px;
+                                      width: 100%;
+                                      max-width: 35px;
+                                    "
+                                /></a>
+                              </td>
+                              <td style="padding-right: 10px">
+                                <a
+                                  href="http://example.com"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                >
+                                  <img
+                                    src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/instagram_icon.png"
+                                    alt="Instagram"
+                                    width="35"
+                                    style="
+                                      display: block;
+                                      border: 0px;
+                                      width: 100%;
+                                      max-width: 35px;
+                                    "
+                                /></a>
+                              </td>
+                              <td style="padding-right: 10px">
+                                <a
+                                  href="http://example.com"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                >
+                                  <img
+                                    src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/linkedin_icon.png"
+                                    alt="Linkedin"
+                                    width="35"
+                                    style="
+                                      display: block;
+                                      border: 0px;
+                                      width: 100%;
+                                      max-width: 35px;
+                                    "
+                                /></a>
+                              </td>
+                              <td style="padding-right: 10px">
+                                <a
+                                  href="http://example.com"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  ><img
+                                    src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/youtube_icon.png"
+                                    alt="Youtube"
+                                    width="35"
+                                    style="
+                                      display: block;
+                                      border: 0px;
+                                      width: 100%;
+                                      max-width: 35px;
+                                    "
+                                /></a>
+                              </td>
+                              <td style="padding-right: 10px">
+                                <a
+                                  href="http://example.com"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                >
+                                  <img
+                                    src="https://www.oesso.host/showcase_projects/html_email-welcome-one_template/twitter_icon.png"
+                                    alt="Twitter"
+                                    width="35"
+                                    style="
+                                      display: block;
+                                      border: 0px;
+                                      width: 100%;
+                                      max-width: 35px;
+                                    "
+                                /></a>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          aria-hidden="true"
+                          style="
+                            font-size: 0;
+                            line-height: 0px;
+                            padding-top: 25px;
+                          "
+                        >
+                          &nbsp;
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          align="center"
+                          style="
+                            font: normal normal normal 16px / normal Arial,
+                              Helvetica, sans-serif;
+                            color: #ffffff;
+                          "
+                        >
+                          <p>
+                            You received this email because you are signed up to
+                            receive product update emails. If you would no
+                            longer like to receive these, please update your
+                            email preferences by visiting the following link
+                            <a
+                              href="http://example.com"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              style="
+                                font: normal normal bold 16px / normal Arial,
+                                  Helvetica, sans-serif;
+                                color: #ffffff;
+                              "
+                              >unsubscribe</a
+                            >.
+                          </p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          aria-hidden="true"
+                          style="
+                            font-size: 0;
+                            line-height: 0px;
+                            padding-top: 25px;
+                          "
+                        >
+                          &nbsp;
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">
+                          <table
+                            role="presentation"
+                            cellpadding="0"
+                            cellspacing="0"
+                            border="0"
+                            style="border-spacing: 0; border-collapse: collapse"
+                          >
+                            <tr>
+                              <td style="padding-right: 35px">
+                                <a
+                                  href="http://example.com"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  style="
+                                    text-decoration: none;
+                                    font: normal normal normal 16px / normal
+                                        Arial,
+                                      Helvetica, sans-serif;
+                                    color: #ffffff;
+                                  "
+                                  >FAQ's</a
+                                >
+                              </td>
+                              <td style="padding-right: 35px">
+                                <a
+                                  href="http://example.com"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  style="
+                                    text-decoration: none;
+                                    font: normal normal normal 16px / normal
+                                        Arial,
+                                      Helvetica, sans-serif;
+                                    color: #ffffff;
+                                  "
+                                  >Help</a
+                                >
+                              </td>
+                              <td>
+                                <a
+                                  href="http://example.com"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  style="
+                                    text-decoration: none;
+                                    font: normal normal normal 16px / normal
+                                        Arial,
+                                      Helvetica, sans-serif;
+                                    color: #ffffff;
+                                  "
+                                  >Terms & Privacy</a
+                                >
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          aria-hidden="true"
+                          style="
+                            font-size: 0;
+                            line-height: 0px;
+                            padding-top: 50px;
+                          "
+                        >
+                          &nbsp;
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+        <![endif]-->
+      </div>
+      <!--[if (gte mso 9)|(IE)]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+    </center>
+  </body>
+</html>
